@@ -1,0 +1,14 @@
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\bin\Debug\net9.0\LeetCode_Tests.exe
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\bin\Debug\net9.0\LeetCode_Tests.deps.json
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\bin\Debug\net9.0\LeetCode_Tests.runtimeconfig.json
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\bin\Debug\net9.0\LeetCode_Tests.dll
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\bin\Debug\net9.0\LeetCode_Tests.pdb
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.AssemblyInfoInputs.cache
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.AssemblyInfo.cs
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.csproj.CoreCompileInputs.cache
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.dll
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\refint\LeetCode_Tests.dll
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.pdb
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.genruntimeconfig.cache
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\ref\LeetCode_Tests.dll
