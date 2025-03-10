@@ -12,3 +12,4 @@ c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\refint\LeetCode_Te
 c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.pdb
 c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.genruntimeconfig.cache
 c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\ref\LeetCode_Tests.dll
+c:\Users\Makil\LeetCode Tests\LeetCode_Tests\obj\Debug\net9.0\LeetCode_Tests.sourcelink.json
