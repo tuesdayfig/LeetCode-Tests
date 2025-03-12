@@ -25,21 +25,25 @@ public IList<int> SpiralOrder(int[][] matrix) {
 
          while (res.Count != m * n) {
             if (direction == "top") {
+                //move right across top
                 for (int j = cleft; j <= cright; j++) {
                     res.Add(matrix[rtop][j]);
                 }
                 rtop++;
             } else if (direction == "right") {
+                //if right, move down
                 for (int i = rtop; i <= rbottom; i++) {
                     res.Add(matrix[i][cright]);
                 }
                 cright--;
             } else if (direction == "bottom") {
+                //if bottom, move left
                 for (int j = cright; j >= cleft; j--) {
                     res.Add(matrix[rbottom][j]);
                 }
                 rbottom--;
             } else if (direction == "left") {
+                //if left, move back up
                 for (int i = rbottom; i >= rtop; i--) {
                     res.Add(matrix[i][cleft]);
                 }
