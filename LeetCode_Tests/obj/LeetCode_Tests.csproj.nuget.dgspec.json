@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj": {}
+    "C:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj": {
+    "C:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj",
         "projectName": "LeetCode_Tests",
-        "projectPath": "c:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj",
+        "projectPath": "C:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\LeetCode_Tests.csproj",
         "packagesPath": "C:\\Users\\Makil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\obj\\",
+        "outputPath": "C:\\Users\\Makil\\LeetCode Tests\\LeetCode_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
